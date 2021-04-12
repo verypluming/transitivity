@@ -1,3 +1,10 @@
+vampire-4.4/
+vampire_dir.txt
+tregex_location.txt
+.DS_Store
+base_veridical/
+tptp_veridical/
+results_veridical/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
