@@ -52,14 +52,17 @@ It contains pairID, genre(the depth of the formula (depthX) and the number of co
 
 ## Citation
 If you use this dataset and code in any published research, please cite the following:
-* Hitomi Yanaka, Koji Mineshima, and Kentaro Inui. [Exploring Transitivity in Neural NLI Models through Veridicality](https://www.aclweb.org/anthology/) [arXiv](https://arxiv.org/pdf/2101.10713.pdf) Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL2021), 2021.
+* Hitomi Yanaka, Koji Mineshima, and Kentaro Inui. [Exploring Transitivity in Neural NLI Models through Veridicality](https://www.aclweb.org/anthology/2021.eacl-main.78.pdf) [arXiv](https://arxiv.org/pdf/2101.10713.pdf) Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL2021), 2021.
 
 ```
-@InProceedings{yanaka-EtAl:2021:eacl,
-  author    = {Yanaka, Hitomi and Mineshima, Koji  and Inui, Kentaro},
-  title     = {Exploring Transitivity in Neural NLI Models through Veridicality},
-  booktitle = {Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL2021)},
-  year      = {2021},
+@inproceedings{yanaka-etal-2021-exploring,
+    title = "Exploring Transitivity in Neural {NLI} Models through Veridicality",
+    author = "Yanaka, Hitomi  and
+      Mineshima, Koji  and
+      Inui, Kentaro",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    year = "2021",
+    pages = "920--934",
 }
 ```
 
