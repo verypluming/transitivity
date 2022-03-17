@@ -70,6 +70,6 @@ If you use this dataset and code in any published research, please cite the foll
 For questions and usage issues, please contact hyanaka@is.s.u-tokyo.ac.jp .
 
 ## License
-Apache License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
